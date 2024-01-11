@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/cf64beae21714f83b7e8e719930e6389/artifacts
+end_time: 1704993754855
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: cf64beae21714f83b7e8e719930e6389
+run_name: able-snipe-358
+run_uuid: cf64beae21714f83b7e8e719930e6389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993743055
+status: 3
+tags: []
+user_id: LX

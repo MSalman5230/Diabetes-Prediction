@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/80a5b4f786624306a256738c5f2e1f24/artifacts
+end_time: 1704993852754
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 80a5b4f786624306a256738c5f2e1f24
+run_name: nebulous-dog-788
+run_uuid: 80a5b4f786624306a256738c5f2e1f24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993838377
+status: 3
+tags: []
+user_id: LX

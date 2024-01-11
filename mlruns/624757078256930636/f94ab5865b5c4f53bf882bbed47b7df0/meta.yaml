@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/f94ab5865b5c4f53bf882bbed47b7df0/artifacts
+end_time: 1704994316026
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: f94ab5865b5c4f53bf882bbed47b7df0
+run_name: crawling-fly-756
+run_uuid: f94ab5865b5c4f53bf882bbed47b7df0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704994304249
+status: 3
+tags: []
+user_id: LX

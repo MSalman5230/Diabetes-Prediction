@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/763589b08e3f4ca3b56d1ccf2dc1f4e1/artifacts
+end_time: 1704997957691
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 763589b08e3f4ca3b56d1ccf2dc1f4e1
+run_name: agreeable-dove-733
+run_uuid: 763589b08e3f4ca3b56d1ccf2dc1f4e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704997955700
+status: 3
+tags: []
+user_id: LX

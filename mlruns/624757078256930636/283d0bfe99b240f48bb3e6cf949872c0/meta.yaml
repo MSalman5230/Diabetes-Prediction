@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/283d0bfe99b240f48bb3e6cf949872c0/artifacts
+end_time: 1704994219192
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 283d0bfe99b240f48bb3e6cf949872c0
+run_name: caring-squid-352
+run_uuid: 283d0bfe99b240f48bb3e6cf949872c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704994206362
+status: 3
+tags: []
+user_id: LX

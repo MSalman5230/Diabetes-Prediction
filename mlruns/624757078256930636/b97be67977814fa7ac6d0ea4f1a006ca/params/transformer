@@ -1,0 +1,7 @@
+ColumnTransformer(transformers=[('num', 'passthrough',
+                                 ['age', 'bmi', 'HbA1c_level',
+                                  'blood_glucose_level']),
+                                ('cat', OrdinalEncoder(),
+                                 ['gender', 'smoking_history']),
+                                ('bin', 'passthrough',
+                                 ['hypertension', 'heart_disease'])])

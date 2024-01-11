@@ -1,0 +1,11 @@
+digest: ce1f13af
+name: dataset
+profile: '{"num_rows": 19226, "num_elements": 153808}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "gender"}, {"type": "double",
+  "name": "age"}, {"type": "long", "name": "hypertension"}, {"type": "long", "name":
+  "heart_disease"}, {"type": "string", "name": "smoking_history"}, {"type": "double",
+  "name": "bmi"}, {"type": "double", "name": "HbA1c_level"}, {"type": "long", "name":
+  "blood_glucose_level"}]}'
+source: '{"tags": {"mlflow.user": "LX", "mlflow.source.name": "C:\\Users\\LX\\AppData\\Roaming\\Python\\Python311\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

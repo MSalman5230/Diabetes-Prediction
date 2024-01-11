@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/efcf2ea9304b4230a479dd9b39c6fa0c/artifacts
+end_time: 1704993769238
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: efcf2ea9304b4230a479dd9b39c6fa0c
+run_name: omniscient-kite-454
+run_uuid: efcf2ea9304b4230a479dd9b39c6fa0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993754861
+status: 3
+tags: []
+user_id: LX

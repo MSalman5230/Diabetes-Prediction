@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/9e70623c16074c1795cf4308ce3c856c/artifacts
+end_time: 1704997874109
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 9e70623c16074c1795cf4308ce3c856c
+run_name: nervous-squirrel-182
+run_uuid: 9e70623c16074c1795cf4308ce3c856c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704997872087
+status: 3
+tags: []
+user_id: LX

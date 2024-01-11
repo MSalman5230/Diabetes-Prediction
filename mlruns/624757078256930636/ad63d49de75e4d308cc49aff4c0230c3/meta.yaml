@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/ad63d49de75e4d308cc49aff4c0230c3/artifacts
+end_time: 1704994064780
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: ad63d49de75e4d308cc49aff4c0230c3
+run_name: glamorous-ray-677
+run_uuid: ad63d49de75e4d308cc49aff4c0230c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704994053121
+status: 3
+tags: []
+user_id: LX

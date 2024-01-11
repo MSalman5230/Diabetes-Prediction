@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/681b36e2fd8d4b0b92065cadf93b079d/artifacts
+end_time: 1704994193073
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 681b36e2fd8d4b0b92065cadf93b079d
+run_name: nervous-fowl-182
+run_uuid: 681b36e2fd8d4b0b92065cadf93b079d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704994180894
+status: 3
+tags: []
+user_id: LX

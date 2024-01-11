@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/e99eefe1c63646549a106b42af7fb90b/artifacts
+end_time: 1704997709626
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: e99eefe1c63646549a106b42af7fb90b
+run_name: agreeable-pig-563
+run_uuid: e99eefe1c63646549a106b42af7fb90b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704997706876
+status: 3
+tags: []
+user_id: LX

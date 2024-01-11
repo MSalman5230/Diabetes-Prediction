@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/735564f4fdd040a88abf20da293b17fd/artifacts
+end_time: 1704993838370
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 735564f4fdd040a88abf20da293b17fd
+run_name: welcoming-mouse-268
+run_uuid: 735564f4fdd040a88abf20da293b17fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993827543
+status: 3
+tags: []
+user_id: LX

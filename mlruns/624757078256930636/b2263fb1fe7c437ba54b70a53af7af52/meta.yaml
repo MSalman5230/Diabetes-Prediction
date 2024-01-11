@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/b2263fb1fe7c437ba54b70a53af7af52/artifacts
+end_time: 1704994280296
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: b2263fb1fe7c437ba54b70a53af7af52
+run_name: angry-calf-408
+run_uuid: b2263fb1fe7c437ba54b70a53af7af52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704994268892
+status: 3
+tags: []
+user_id: LX

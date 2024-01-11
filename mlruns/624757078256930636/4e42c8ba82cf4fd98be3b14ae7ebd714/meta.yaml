@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/4e42c8ba82cf4fd98be3b14ae7ebd714/artifacts
+end_time: 1704997955627
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 4e42c8ba82cf4fd98be3b14ae7ebd714
+run_name: luxuriant-cod-726
+run_uuid: 4e42c8ba82cf4fd98be3b14ae7ebd714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704997953640
+status: 3
+tags: []
+user_id: LX

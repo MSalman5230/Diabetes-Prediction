@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/8feb267c0c7a4751854f2d3b9ed7f1c5/artifacts
+end_time: 1704994168810
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 8feb267c0c7a4751854f2d3b9ed7f1c5
+run_name: luxuriant-mouse-974
+run_uuid: 8feb267c0c7a4751854f2d3b9ed7f1c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704994156764
+status: 3
+tags: []
+user_id: LX

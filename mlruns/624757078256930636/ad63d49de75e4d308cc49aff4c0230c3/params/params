@@ -1,0 +1,1 @@
+{'verbosity': 0, 'objective': 'binary:logistic', 'booster': 'gbtree', 'reg_lambda': 0.00937210078989954, 'reg_alpha': 0.05480535472163327, 'subsample': 0.6, 'colsample_bytree': 0.8477510340660329, 'n_estimators': 400, 'max_depth': 2, 'min_child_weight': 19, 'eta': 0.04437556304561353, 'gamma': 0.6125918792031124, 'grow_policy': 'lossguide', 'scale_pos_weight': 5.277910167871295}

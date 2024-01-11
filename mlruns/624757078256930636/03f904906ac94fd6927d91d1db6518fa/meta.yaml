@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/03f904906ac94fd6927d91d1db6518fa/artifacts
+end_time: 1704993905481
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 03f904906ac94fd6927d91d1db6518fa
+run_name: merciful-dove-340
+run_uuid: 03f904906ac94fd6927d91d1db6518fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993892751
+status: 3
+tags: []
+user_id: LX

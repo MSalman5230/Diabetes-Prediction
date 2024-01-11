@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/2dfe771d24ff4d23ad581d0e4c3756a1/artifacts
+end_time: 1704993879892
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 2dfe771d24ff4d23ad581d0e4c3756a1
+run_name: tasteful-rat-709
+run_uuid: 2dfe771d24ff4d23ad581d0e4c3756a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993866261
+status: 3
+tags: []
+user_id: LX

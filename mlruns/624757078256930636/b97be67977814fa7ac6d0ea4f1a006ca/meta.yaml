@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/b97be67977814fa7ac6d0ea4f1a006ca/artifacts
+end_time: 1704994292522
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: b97be67977814fa7ac6d0ea4f1a006ca
+run_name: judicious-shoat-113
+run_uuid: b97be67977814fa7ac6d0ea4f1a006ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704994280303
+status: 3
+tags: []
+user_id: LX

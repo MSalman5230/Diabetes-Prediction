@@ -1,0 +1,6 @@
+artifact_location: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636
+creation_time: 1704993708611
+experiment_id: '624757078256930636'
+last_update_time: 1704993708611
+lifecycle_stage: active
+name: XGBoost_tuning_final_version

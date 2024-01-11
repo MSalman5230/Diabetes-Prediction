@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/ab52258c2b7f4471b0f0e0aa16188bc4/artifacts
+end_time: 1704994113228
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: ab52258c2b7f4471b0f0e0aa16188bc4
+run_name: incongruous-dog-102
+run_uuid: ab52258c2b7f4471b0f0e0aa16188bc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704994101686
+status: 3
+tags: []
+user_id: LX

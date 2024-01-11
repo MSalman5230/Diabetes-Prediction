@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/f33c53935d41423799540b6f0f172b81/artifacts
+end_time: 1704993827535
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: f33c53935d41423799540b6f0f172b81
+run_name: kindly-crab-416
+run_uuid: f33c53935d41423799540b6f0f172b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993814172
+status: 3
+tags: []
+user_id: LX

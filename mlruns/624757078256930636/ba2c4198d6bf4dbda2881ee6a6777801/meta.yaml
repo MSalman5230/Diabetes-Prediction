@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/ba2c4198d6bf4dbda2881ee6a6777801/artifacts
+end_time: 1704993930888
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: ba2c4198d6bf4dbda2881ee6a6777801
+run_name: adventurous-bass-433
+run_uuid: ba2c4198d6bf4dbda2881ee6a6777801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993918714
+status: 3
+tags: []
+user_id: LX

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/78b70ac319694e6b9bb1c10ae0c44806/artifacts
+end_time: 1704994087649
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 78b70ac319694e6b9bb1c10ae0c44806
+run_name: sedate-gull-106
+run_uuid: 78b70ac319694e6b9bb1c10ae0c44806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704994075492
+status: 3
+tags: []
+user_id: LX

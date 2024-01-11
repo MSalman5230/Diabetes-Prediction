@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/f6b4c55cb92541b28d9ca932d4939655/artifacts
+end_time: 1704997867792
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: f6b4c55cb92541b28d9ca932d4939655
+run_name: fortunate-cat-316
+run_uuid: f6b4c55cb92541b28d9ca932d4939655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704997865733
+status: 3
+tags: []
+user_id: LX

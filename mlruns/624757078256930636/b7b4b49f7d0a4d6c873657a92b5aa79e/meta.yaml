@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/b7b4b49f7d0a4d6c873657a92b5aa79e/artifacts
+end_time: 1704997964090
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: b7b4b49f7d0a4d6c873657a92b5aa79e
+run_name: intrigued-asp-394
+run_uuid: b7b4b49f7d0a4d6c873657a92b5aa79e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704997962019
+status: 3
+tags: []
+user_id: LX

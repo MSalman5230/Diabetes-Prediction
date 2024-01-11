@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MegaSync/Projects/Git/Diabetes-Prediction/mlruns/624757078256930636/2d835c60644645e8938b7e4d3a19ef9f/artifacts
+end_time: 1704994368066
+entry_point_name: ''
+experiment_id: '624757078256930636'
+lifecycle_stage: active
+run_id: 2d835c60644645e8938b7e4d3a19ef9f
+run_name: smiling-snipe-257
+run_uuid: 2d835c60644645e8938b7e4d3a19ef9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993708726
+status: 3
+tags: []
+user_id: LX
