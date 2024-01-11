@@ -1,2 +1,7 @@
 mlflow
 optuna
+pandas
+umap-learn
+scikit-learn
+xgboost
+streamlit

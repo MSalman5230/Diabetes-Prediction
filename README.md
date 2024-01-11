@@ -1,3 +1,12 @@
+<h1>Predicting Diabetes: A Machine Learning Approach</h1>
+
+Live Demo:https://PredictDiabetes.msalman.de
+# Information
+1. Exploratory Data Analysis (EDA) with Seaborn, and UMAP for (Uniform Manifold Approximation and Projection)for visualizing high-dimensional data in a lower-dimensional space
+2. XGboost Tuned Hyperparamertes Tuned with Optuna and ML-Flow 
+3. Streamlit for webapp
+
+
 <h1 style="font-size:20px;">About the dataset:</h1>
 <ul>
     <li>
