@@ -92,6 +92,10 @@ def main():
         st.subheader("Prediction Result")
         st.write("Diabetes Prediction:", prediction)
 
+    st.markdown(
+        "[Project Source Code](https://github.com/MSalman5230/Diabetes-Prediction)"
+    )
+
 
 if __name__ == "__main__":
     main()
