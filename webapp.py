@@ -2,6 +2,9 @@ import streamlit as st
 import pickle
 import pandas as pd
 
+PAGE_TITLE = "Diabetes Prediction"
+PAGE_ICON = ":male-doctor:"
+st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 # Load the model
 with open("diabetes_model.pkl", "rb") as file:
     model = pickle.load(file)
